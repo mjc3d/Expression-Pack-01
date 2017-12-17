@@ -1,0 +1,502 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Male/Expressions/~%20MJC3D%20~/Expression%20Pack%2001/g3m%20exp%2004.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Michael Collins",
+			"email" : "mjc3d@cyberczar.org",
+			"website" : "https://mjc3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-12-17T14:30:52Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/lNasolabialLower:?translation/y/value",
+				"keys" : [ [ 0, 0.2165371 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialLower:?translation/y/value",
+				"keys" : [ [ 0, -0.09108398 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMouthCorner:?translation/x/value",
+				"keys" : [ [ 0, -0.05214444 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMouthCorner:?translation/y/value",
+				"keys" : [ [ 0, -0.1563207 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMouthCorner:?translation/z/value",
+				"keys" : [ [ 0, -0.3446481 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMouthCorner:?translation/x/value",
+				"keys" : [ [ 0, 0.008909414 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMouthCorner:?translation/y/value",
+				"keys" : [ [ 0, 0.5434597 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMouthCorner:?translation/z/value",
+				"keys" : [ [ 0, -0.01315407 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipCorner:?translation/x/value",
+				"keys" : [ [ 0, 0.2548866 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipCorner:?translation/y/value",
+				"keys" : [ [ 0, 0.6634122 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipCorner:?translation/z/value",
+				"keys" : [ [ 0, -0.1367525 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipCorner:?rotation/y/value",
+				"keys" : [ [ 0, 6.399039 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerOuter:?translation/x/value",
+				"keys" : [ [ 0, 0.1960666 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.2810825 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerOuter:?translation/z/value",
+				"keys" : [ [ 0, 0.1101819 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerOuter:?rotation/x/value",
+				"keys" : [ [ 0, -0.4048885 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerInner:?translation/x/value",
+				"keys" : [ [ 0, 0.1307111 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerInner:?translation/y/value",
+				"keys" : [ [ 0, 0.2093473 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerInner:?translation/z/value",
+				"keys" : [ [ 0, 0.08092019 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerInner:?rotation/x/value",
+				"keys" : [ [ 0, -6.255374 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipLowerInner:?rotation/y/value",
+				"keys" : [ [ 0, 2.747987 ] ]
+			},
+			{
+				"url" : "name://@selection/LipLowerMiddle:?translation/y/value",
+				"keys" : [ [ 0, 0.09238505 ] ]
+			},
+			{
+				"url" : "name://@selection/LipLowerMiddle:?translation/z/value",
+				"keys" : [ [ 0, 0.06875481 ] ]
+			},
+			{
+				"url" : "name://@selection/LipLowerMiddle:?rotation/x/value",
+				"keys" : [ [ 0, -3.432462 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerInner:?translation/x/value",
+				"keys" : [ [ 0, -0.02459426 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerInner:?translation/y/value",
+				"keys" : [ [ 0, 0.2035913 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerInner:?translation/z/value",
+				"keys" : [ [ 0, 0.07197145 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerInner:?rotation/x/value",
+				"keys" : [ [ 0, -5.330993 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerInner:?rotation/y/value",
+				"keys" : [ [ 0, -2.039268 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerOuter:?translation/x/value",
+				"keys" : [ [ 0, -0.03689139 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.5028718 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerOuter:?translation/z/value",
+				"keys" : [ [ 0, -0.1509545 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipLowerOuter:?rotation/x/value",
+				"keys" : [ [ 0, -4.724742 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipCorner:?translation/x/value",
+				"keys" : [ [ 0, -0.04795881 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipCorner:?translation/y/value",
+				"keys" : [ [ 0, 1.089879 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipCorner:?translation/z/value",
+				"keys" : [ [ 0, -0.4624447 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipCorner:?rotation/y/value",
+				"keys" : [ [ 0, -5.688308 ] ]
+			},
+			{
+				"url" : "name://@selection/LipBelow:?translation/y/value",
+				"keys" : [ [ 0, 0.2869098 ] ]
+			},
+			{
+				"url" : "name://@selection/lCheekLower:?translation/y/value",
+				"keys" : [ [ 0, 0.5426837 ] ]
+			},
+			{
+				"url" : "name://@selection/rCheekLower:?translation/y/value",
+				"keys" : [ [ 0, -0.1258633 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?translation/z/value",
+				"keys" : [ [ 0, 0.1381726 ] ]
+			},
+			{
+				"url" : "name://@selection/rBrowInner:?translation/x/value",
+				"keys" : [ [ 0, -0.33201 ] ]
+			},
+			{
+				"url" : "name://@selection/rBrowInner:?translation/y/value",
+				"keys" : [ [ 0, 0.5179182 ] ]
+			},
+			{
+				"url" : "name://@selection/rBrowMid:?translation/y/value",
+				"keys" : [ [ 0, 0.9258957 ] ]
+			},
+			{
+				"url" : "name://@selection/rBrowOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.6077498 ] ]
+			},
+			{
+				"url" : "name://@selection/lBrowInner:?translation/x/value",
+				"keys" : [ [ 0, 0.3336182 ] ]
+			},
+			{
+				"url" : "name://@selection/lBrowInner:?translation/y/value",
+				"keys" : [ [ 0, 0.6465317 ] ]
+			},
+			{
+				"url" : "name://@selection/lBrowMid:?translation/y/value",
+				"keys" : [ [ 0, 0.4241326 ] ]
+			},
+			{
+				"url" : "name://@selection/lBrowOuter:?translation/y/value",
+				"keys" : [ [ 0, -0.03465621 ] ]
+			},
+			{
+				"url" : "name://@selection/CenterBrow:?translation/y/value",
+				"keys" : [ [ 0, 0.5077859 ] ]
+			},
+			{
+				"url" : "name://@selection/MidNoseBridge:?translation/y/value",
+				"keys" : [ [ 0, 0.1058153 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidInner:?rotation/x/value",
+				"keys" : [ [ 0, 7.016854 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidUpperInner:?rotation/x/value",
+				"keys" : [ [ 0, -5.04632 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidUpper:?rotation/x/value",
+				"keys" : [ [ 0, -3.669475 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidUpperOuter:?rotation/x/value",
+				"keys" : [ [ 0, -5.522029 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.005856817 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidLowerOuter:?rotation/x/value",
+				"keys" : [ [ 0, 6.118549 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidLower:?rotation/x/value",
+				"keys" : [ [ 0, 7.016854 ] ]
+			},
+			{
+				"url" : "name://@selection/lEyelidLowerInner:?rotation/x/value",
+				"keys" : [ [ 0, 7.461182 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidInner:?rotation/x/value",
+				"keys" : [ [ 0, 4.132972 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidUpperInner:?rotation/x/value",
+				"keys" : [ [ 0, -2.120683 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidUpper:?rotation/x/value",
+				"keys" : [ [ 0, -3.393457 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidUpperOuter:?rotation/x/value",
+				"keys" : [ [ 0, -5.227785 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.02675395 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidLowerOuter:?rotation/x/value",
+				"keys" : [ [ 0, 3.768194 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidLower:?rotation/x/value",
+				"keys" : [ [ 0, 4.132972 ] ]
+			},
+			{
+				"url" : "name://@selection/rEyelidLowerInner:?rotation/x/value",
+				"keys" : [ [ 0, 3.596937 ] ]
+			},
+			{
+				"url" : "name://@selection/lSquintInner:?translation/y/value",
+				"keys" : [ [ 0, 0.00751226 ] ]
+			},
+			{
+				"url" : "name://@selection/lSquintOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.1477528 ] ]
+			},
+			{
+				"url" : "name://@selection/rSquintInner:?translation/y/value",
+				"keys" : [ [ 0, 0.1583235 ] ]
+			},
+			{
+				"url" : "name://@selection/rSquintOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.2595911 ] ]
+			},
+			{
+				"url" : "name://@selection/lCheekUpper:?translation/y/value",
+				"keys" : [ [ 0, 0.1515634 ] ]
+			},
+			{
+				"url" : "name://@selection/rCheekUpper:?translation/y/value",
+				"keys" : [ [ 0, 0.5645511 ] ]
+			},
+			{
+				"url" : "name://@selection/Nose:?translation/y/value",
+				"keys" : [ [ 0, 0.08051004 ] ]
+			},
+			{
+				"url" : "name://@selection/Nose:?rotation/y/value",
+				"keys" : [ [ 0, -1.221925 ] ]
+			},
+			{
+				"url" : "name://@selection/lNostril:?translation/x/value",
+				"keys" : [ [ 0, 0.03754459 ] ]
+			},
+			{
+				"url" : "name://@selection/lNostril:?translation/y/value",
+				"keys" : [ [ 0, 0.08522115 ] ]
+			},
+			{
+				"url" : "name://@selection/lNostril:?rotation/z/value",
+				"keys" : [ [ 0, 6.61975 ] ]
+			},
+			{
+				"url" : "name://@selection/rNostril:?translation/x/value",
+				"keys" : [ [ 0, -0.03500554 ] ]
+			},
+			{
+				"url" : "name://@selection/rNostril:?translation/y/value",
+				"keys" : [ [ 0, 0.07480673 ] ]
+			},
+			{
+				"url" : "name://@selection/rNostril:?rotation/z/value",
+				"keys" : [ [ 0, -11.37642 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipBelowNose:?translation/y/value",
+				"keys" : [ [ 0, -0.2231568 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipBelowNose:?translation/y/value",
+				"keys" : [ [ 0, -0.2115568 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperOuter:?translation/x/value",
+				"keys" : [ [ 0, 0.1960666 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.2342354 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperOuter:?translation/z/value",
+				"keys" : [ [ 0, 0.1101819 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperOuter:?rotation/x/value",
+				"keys" : [ [ 0, -5.391628 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperInner:?translation/x/value",
+				"keys" : [ [ 0, 0.1307111 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperInner:?translation/y/value",
+				"keys" : [ [ 0, 0.2093473 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperInner:?translation/z/value",
+				"keys" : [ [ 0, 0.08092019 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperInner:?rotation/x/value",
+				"keys" : [ [ 0, -3.982955 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipUpperInner:?rotation/y/value",
+				"keys" : [ [ 0, 2.513432 ] ]
+			},
+			{
+				"url" : "name://@selection/LipUpperMiddle:?translation/y/value",
+				"keys" : [ [ 0, 0.09238505 ] ]
+			},
+			{
+				"url" : "name://@selection/LipUpperMiddle:?translation/z/value",
+				"keys" : [ [ 0, 0.07594987 ] ]
+			},
+			{
+				"url" : "name://@selection/LipUpperMiddle:?rotation/x/value",
+				"keys" : [ [ 0, -1.418756 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperInner:?translation/x/value",
+				"keys" : [ [ 0, -0.02459426 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperInner:?translation/y/value",
+				"keys" : [ [ 0, 0.2035913 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperInner:?translation/z/value",
+				"keys" : [ [ 0, 0.07197145 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperInner:?rotation/x/value",
+				"keys" : [ [ 0, -2.761092 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperInner:?rotation/y/value",
+				"keys" : [ [ 0, -4.821412 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperOuter:?translation/x/value",
+				"keys" : [ [ 0, -0.03689139 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperOuter:?translation/y/value",
+				"keys" : [ [ 0, 0.4560247 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperOuter:?translation/z/value",
+				"keys" : [ [ 0, -0.1509545 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipUpperOuter:?rotation/x/value",
+				"keys" : [ [ 0, -5.818667 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipNasolabialCrease:?translation/x/value",
+				"keys" : [ [ 0, 0.1446303 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipNasolabialCrease:?translation/y/value",
+				"keys" : [ [ 0, 0.06309604 ] ]
+			},
+			{
+				"url" : "name://@selection/lLipNasolabialCrease:?translation/z/value",
+				"keys" : [ [ 0, -0.1751866 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipNasolabialCrease:?translation/x/value",
+				"keys" : [ [ 0, -0.1224789 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipNasolabialCrease:?translation/y/value",
+				"keys" : [ [ 0, 0.235073 ] ]
+			},
+			{
+				"url" : "name://@selection/rLipNasolabialCrease:?translation/z/value",
+				"keys" : [ [ 0, -0.1075197 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialUpper:?translation/x/value",
+				"keys" : [ [ 0, 0.1776098 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialUpper:?translation/y/value",
+				"keys" : [ [ 0, 0.6137365 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialUpper:?translation/x/value",
+				"keys" : [ [ 0, -0.1512091 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialUpper:?translation/y/value",
+				"keys" : [ [ 0, 0.3675687 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMiddle:?translation/x/value",
+				"keys" : [ [ 0, 0.06460669 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMiddle:?translation/y/value",
+				"keys" : [ [ 0, 0.3372022 ] ]
+			},
+			{
+				"url" : "name://@selection/lNasolabialMiddle:?translation/z/value",
+				"keys" : [ [ 0, 0.06085914 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMiddle:?translation/x/value",
+				"keys" : [ [ 0, -0.06772578 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMiddle:?translation/y/value",
+				"keys" : [ [ 0, 0.6671012 ] ]
+			},
+			{
+				"url" : "name://@selection/rNasolabialMiddle:?translation/z/value",
+				"keys" : [ [ 0, 0.1683891 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, -15 ] ]
+			}
+		]
+	}
+}
